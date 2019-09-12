@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-hello git
-
-
-最后一次
-=======
-hello git  你好
->>>>>>> 0227f77f098a97c1362b2bc338021aad7f7b58e8
